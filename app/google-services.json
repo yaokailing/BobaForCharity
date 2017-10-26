@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "515819404570",
+    "firebase_url": "https://bobaforcharity.firebaseio.com",
+    "project_id": "bobaforcharity",
+    "storage_bucket": "bobaforcharity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515819404570:android:5f7101e2b38f2206",
+        "android_client_info": {
+          "package_name": "com.catherineyao.bobaforcharity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515819404570-s08ghgsi765luvetoeqjsg85v6qf1c6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catherineyao.bobaforcharity",
+            "certificate_hash": "74991a880228bd179ddcfa2c98330d371786d5c9"
+          }
+        },
+        {
+          "client_id": "515819404570-9me4k2qrib9cim11oo9vqbm3e0renpbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2755fb2ddbVMUxK-aPM_QLnthVYhZsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515819404570-9me4k2qrib9cim11oo9vqbm3e0renpbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

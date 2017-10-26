@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Boba For Charity</string>
+    <string name="edit_message">Name</string>
+    <string name="button_send">Send</string>
+    <string name="button_home_order">Order</string>
+    <string name="button_home_deliver">Deliver</string>
+</resources>
